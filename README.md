@@ -17,7 +17,7 @@ ROOM - https://developer.android.com/training/data-storage/room
 
 Link to walkthrough of the app:
 
-[https://github.com/zachbaker55/Project6Notes/blob/master/NoteDemo.gif](https://github.com/zachbaker55/MidtermProject/blob/master/MidtermDemo.gif)
+https://github.com/zachbaker55/MidtermProject/blob/master/MidtermDemo.gif
 
 GIF created with [ScreenToGif].
 
